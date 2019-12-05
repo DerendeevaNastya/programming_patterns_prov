@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\deren\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\deren\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Xrm.ReportUtility.-1272212937.00" t="ExcludeRecursive" />
+    <e p="C:\Users\deren\Documents\шаблоны\Xrm.ReportUtility" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Xrm.ReportUtility" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Files" t="Include">
+          <e p="table.csv" t="Include" />
+          <e p="table.txt" t="Include" />
+        </e>
+        <e p="Infrastructure" t="Include">
+          <e p="DataTransformerCreator.cs" t="Include" />
+          <e p="Handlers" t="Include">
+            <e p="CsvReportServiceHandler.cs" t="Include" />
+            <e p="ReportServiceHandler.cs" t="Include" />
+            <e p="TxtReportServiceHandler.cs" t="Include" />
+            <e p="XlsxReportServiceHandler.cs" t="Include" />
+          </e>
+          <e p="ReportServiceCreator.cs" t="Include" />
+          <e p="RowDataMapper.cs" t="Include" />
+          <e p="Transformers" t="Include">
+            <e p="Abstract" t="Include">
+              <e p="ReportServiceTransformerBase.cs" t="Include" />
+            </e>
+            <e p="CostSumReportTransformer.cs" t="Include" />
+            <e p="CountSumReportTransformer.cs" t="Include" />
+            <e p="DataTransformer.cs" t="Include" />
+            <e p="VolumeSumReportTransformer.cs" t="Include" />
+            <e p="WeightSumReportTransfomer.cs" t="Include" />
+            <e p="WithDataReportTransformer.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Interfaces" t="Include">
+          <e p="IDataTransformer.cs" t="Include" />
+          <e p="IReportService.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="DataRow.cs" t="Include" />
+          <e p="Report.cs" t="Include" />
+          <e p="ReportConfig.cs" t="Include" />
+          <e p="ReportRow.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Services" t="Include">
+          <e p="CsvReportService.cs" t="Include" />
+          <e p="ReportServiceBase.cs" t="Include" />
+          <e p="TxtReportService.cs" t="Include" />
+          <e p="XlsxReportService.cs" t="Include" />
+        </e>
+        <e p="Xrm.ReportUtility.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Xrm.ReportUtility.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
